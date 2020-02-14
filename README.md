@@ -2,7 +2,7 @@
 
 It's an iOS application that allows users to view open and closed GitHub Issues posted in an open source repo. 
 
-Data are fetched from the GitHub REST API.
+URLSession is used to fetch data from the GitHub REST API, and UITabBarController, UINavigationController, UITableView to display it on screen.
 
 The interface looks like this.
 

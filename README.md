@@ -1,4 +1,4 @@
-# Github_Issue_App
+# Github Issue App
 
 It's an iOS application that allows users to view open and closed GitHub Issues posted in an open source repo. 
 
